@@ -24,7 +24,7 @@ https://github.com/othneildrew/Best-README-Template/blob/master/README.md
   <h3 align="center"></h3>
 
   <p align="center">
-    Tic Tac Toc (Ruby CLI)
+    Tic Tac Toe (Ruby CLI)
     <br />
     <br />
     ·
