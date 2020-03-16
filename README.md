@@ -95,8 +95,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/fedgut/mv-ruby-03-tic-tac-toe](https://github.com/fedgut/mv-ruby-03-tic-tac-toe)
 
 - **Eduardo Gutierrez** - [@fedgut](https://github.com/fedgut)
+- **Tiago Ferreira** - [@tiagoit](https://github.com/tiagoit)
 
-- **Tiago Ferreira** - [@ferreirati](https://github.com/ferreirati)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagoit-dev/) or drop me a line at <tiagoitferreira@gmail.com>.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
