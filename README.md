@@ -80,7 +80,11 @@ The player who is playing "X" always goes first. Players alternate placing Xs an
 
 ## Debug
 
-rdebug-ide --host 127.0.0.1 --port 1234 --dispatcher-port 26162 ./bin/main.rb
+`rdebug-ide --host 127.0.0.1 --port 1234 --dispatcher-port 26162 ./bin/main.rb`
+
+## Run the specs
+
+`bundle exec rspec`
 
 <!-- LICENSE -->
 
